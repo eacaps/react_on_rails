@@ -5,6 +5,7 @@ Contributors: please follow the recommendations outlined at [keepachangelog.com]
 
 ## [Unreleased]
 
+- React on Rails server rendering can now be used in contextes without request, mostly useful for usage in ActionMailer templates [#486](https://github.com/shakacode/react_on_rails/pull/486)
 - React on Rails now correctly parses single-digit version strings from package.json [#491](https://github.com/shakacode/react_on_rails/pull/491)
 
 ## [6.0.5]
